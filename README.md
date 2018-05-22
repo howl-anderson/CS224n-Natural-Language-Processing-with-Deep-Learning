@@ -1,4 +1,4 @@
-# My solutions for Assignments of CS224n: Natural Language Processing with Deep Learning
+# My solutions for assignments of CS224n: Natural Language Processing with Deep Learning
 
 Course URL: http://web.stanford.edu/class/cs224n/
 
